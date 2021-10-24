@@ -1,0 +1,1 @@
+a simple quote generator that use quotable.io api for getting quots
